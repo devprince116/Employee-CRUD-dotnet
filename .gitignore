@@ -1,0 +1,74 @@
+# .NET Core & ASP.NET Core
+bin/
+obj/
+
+# Rider projects
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Packages
+packages/
+
+# Dependencies
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.zip
+*.tar.gz
+*.nupkg
+
+# Build artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+migrations/
+
+# ASP.NET Core
+wwwroot/
+
+# Configuration
+appsettings*.json
+secrets.json
+
+# Docker
+*.container.temp.json
+**/Dockerfile
+
+# Node.js dependencies
+node_modules/
+
+# Coverage and test results
+TestResults/
+coverage/
+
+# MacOS & Linux system files
+.DS_Store
+*.swp
+*.swo
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Resharper
+*.DotSettings.user

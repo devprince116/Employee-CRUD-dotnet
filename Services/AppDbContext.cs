@@ -10,7 +10,5 @@ namespace dotnet_app.Services
         { }
             public DbSet<Employee> Employees { get; set; }
 
-        
-
     }
 }
